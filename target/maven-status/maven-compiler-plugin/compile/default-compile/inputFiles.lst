@@ -1,0 +1,11 @@
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/model/Developer.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/tax/DeveloperTax.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/tax/Taxable.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/dto/DeveloperResponse.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/model/MidDeveloper.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/S17d2Application.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/rest/DeveloperController.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/model/JuniorDeveloper.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/model/SeniorDeveloper.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/model/DeveloperFactory.java
+/Users/osmanilhan/Desktop/Spring Boot/s17d2/src/main/java/com/workintech/s17d2/model/Experince.java
